@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "fragrant-tooth-8cd6",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "7ec11e7c-c48c-403e-88e7-7c6d5e31fa22",
+      "database_name": "fragrant-tooth-8cd6-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
